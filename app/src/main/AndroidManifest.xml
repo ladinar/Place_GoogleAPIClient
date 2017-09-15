@@ -12,7 +12,7 @@
         <!-- TODO (1) Add meta-data tag with API key -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDv-7mwIiL0P1PEDDJ7sl7L_IK-bPVpRNc" />
+            android:value="AIzaSyBV-q5mKPqisMMnyt0_jZlYUCVhubAdEUg" />
 
         <activity android:name="com.example.android.shushme.MainActivity">
             <intent-filter>
